@@ -43,7 +43,7 @@ library
     , monad-control         >= 1.0.0.4  && < 1.1
     , mtl                   >= 2.1      && < 2.3
     , semigroupoids         >= 4.3      && < 5.3
-    , servant-client-core   == 0.13.*
+    , servant-client-core   == 0.14.*
     , string-conversions    >= 0.3      && < 0.5
     , text
     , transformers          >= 0.3      && < 0.6
